@@ -14,7 +14,7 @@ As part of the [African Master’s in Machine Intelligence (AMMI 2022)](https://
 
 ### Course materials
 
-All materials including recordings, slides, practicals (Colab) and guest lectures can found at [Geometric deep learning website](https://geometricdeeplearning.com/lectures/).
+All materials including recordings, slides, practicals (Colab) and guest lectures can found at [Geometric deep learning](https://geometricdeeplearning.com/lectures/) website.
 
 ### Requirements
 
