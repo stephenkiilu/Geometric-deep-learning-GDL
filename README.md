@@ -21,8 +21,8 @@ All materials including recordings, slides, practicals (Colab) and guest lecture
 For practical sessions, a working [jupyter notebook](https://jupyter.org/install) setup is required. Course material will be done in python.
 
 ### Teaching Staff
-- [Professor Michael M. Bronstein](https://people.lu.usi.ch/bronstem/), Imperial College London / Twitter
-- [Jean-Philippe Vert](http://cbio.mines-paristech.fr/~jvert) (Prof.)
-- [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (Prof.)
-- Romain Menegaux (T.A)
+- [Professor Michael M. Bronstein](https://people.lu.usi.ch/bronstem/), Imperial College London / Twitter.
+- [Professor Joan Bruna](https://cims.nyu.edu/~bruna/), New York University.
+- [Dr.Taco Cohen](https://tacocohen.wordpress.com/), Qualcomm Technologies Netherlands B.V.
+- [Professor Petar Veličković](https://petar-v.com/advising.html), DeepMind.
 
