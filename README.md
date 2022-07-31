@@ -10,11 +10,10 @@ Geometric Deep Learning (GDL)
 * [Teaching Staff](#teaching-staff)
 
 ### Introduction
-As part of the [African Master’s in Machine Intelligence (AMMI 2021)](https://aimsammi.org/), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
+As part of the [African Master’s in Machine Intelligence (AMMI 2021)](https://aimsammi.org/), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our [GDL proto-book](https://arxiv.org/abs/2104.13478). We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book ~ Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković.
 
-### Course Slides
+### Course materials
 
-Slides for the course can be found here: [Slides](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/slides/ammi2020/ammi2020.pdf)
 
 ### Requirements
 
